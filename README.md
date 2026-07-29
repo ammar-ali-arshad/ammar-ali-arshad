@@ -35,8 +35,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammar-ali-arshad&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar-ali-arshad&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ammar-ali-arshad&theme=react-dark" alt="GitHub Activity Graph" width="90%" />
+</p>
 </p>
 </p>
 </p>
